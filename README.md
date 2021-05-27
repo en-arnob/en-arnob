@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khalid Arnob
-- 👀 I’m interested in Web Front-end web development
+- 👀 I’m interested in Front-end web development
 - 🌱 I’m currently learning React
 - 📫 Reach me at: en.arnob@gmail.com
 
