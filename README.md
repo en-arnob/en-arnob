@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khalid Arnob
-- 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning MERN
 - 📫 Reach me at: en.arnob@gmail.com
 
 <!---
