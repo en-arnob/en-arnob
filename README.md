@@ -14,4 +14,4 @@
 </p>
 
 ### Reach me at:            
-[![Gmail Badge](https://img.shields.io/badge/-en.arnob-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:en.arnob@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-en.arnob-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/en-arnob/)
+[![Gmail Badge](https://img.shields.io/badge/-en.arnob-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:en.arnob@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-khalid__arnob-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-arnob/)
