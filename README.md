@@ -1,7 +1,7 @@
 # 💫 About Me:
 Myself,
 ## Khalid Ibn Alam Utsob
-🔭 I’m currently working with React, Node.js<br>👯 I’m looking to collaborate on open source MERN projects<br>🌱 I’m currently learning DevOps<br>💬 Ask me about JavaScript<br>⚡ Fun fact, When I'm not coding, you can find me exploring the great outdoors
+🔭 I’m currently working with Node.js, React<br>👯 I’m looking to collaborate on open source MERN projects<br>🌱 I’m currently learning DevOps<br>💬 Ask me about JavaScript<br>⚡ Fun fact, When I'm not coding, you can find me exploring the great outdoors
 
 
 ## 🌐 Socials:
