@@ -1,7 +1,8 @@
 # 💫 About Me:
 Myself,
 ## Khalid Ibn Alam Utsob
-🔭 I’m currently working with Node.js, React<br>👯 I’m looking to collaborate on open source MERN projects<br>🌱 I’m currently learning Go<br>💬 Ask me about JavaScript<br>⚡ Fun fact, When I'm not coding, you can find me exploring the great outdoors
+Enthusiastic computer science graduate with proven skills in coding and design. Proficient in JavaScript (ES6+) and Node.js. Experienced in building web applications and RESTful APIs. Adept in software development methodologies like Agile and Scrum. 
+Fun Fact: When I'm not coding, you can find me exploring the great outdoors
 
 
 ## 🌐 Socials:
