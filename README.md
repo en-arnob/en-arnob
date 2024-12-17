@@ -15,6 +15,14 @@ Fun Fact: When I'm not coding, you can find me exploring the great outdoors
 ![](https://github-readme-streak-stats.herokuapp.com/?user=en-arnob&theme=gruvbox&hide_border=false&include_all_commits=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=en-arnob&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/en-arnob"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=khalid_arnob)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
