@@ -1,7 +1,7 @@
 # 💫 About Me:
 Myself,
 ## Khalid Ibn Alam Utsob
-Enthusiastic computer science graduate with proven skills in coding and design. Proficient in JavaScript (ES6+) and Node.js. Experienced in building web applications and RESTful APIs. Adept in software development methodologies like Agile and Scrum. 
+Experienced full-stack software developer with a strong focus on back-end development. Proficient in JavaScript (ES6+) and Node.js. Experienced in building web applications and RESTful APIs. Adept in software development methodologies like Agile and Scrum.
 
 Fun Fact: When I'm not coding, you can find me exploring the great outdoors
 
