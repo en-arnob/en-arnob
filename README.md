@@ -22,9 +22,6 @@ Fun Fact: When I'm not coding, you can find me exploring the great outdoors
 />
 </a>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=khalid_arnob)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
