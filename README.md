@@ -1,7 +1,7 @@
 # 💫 About Me:
 Myself,
 ## Khalid Ibn Alam Utsob
-A skilled back-end-focused full-stack software developer with expertise in Node.js, Express, SQL, and React. Experienced in system design, project management, and database modeling. Passionate about leveraging technology to solve complex problems and deliver seamless user experiences.
+A skilled back-end-focused full-stack software developer with expertise in Node.js, Express, NestJS, SQL, and React. Experienced in system design, project management, and database modeling. Passionate about leveraging technology to solve complex problems and deliver seamless user experiences.
 Fun Fact: When I'm not coding, you can find me exploring the great outdoors
 
 
