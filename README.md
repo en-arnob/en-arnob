@@ -1,6 +1,6 @@
 ## Khalid Ibn Alam Utsob
 
-Back-end-focused full-stack developer. I design and build scalable APIs and multi-tenant systems with Node.js, NestJS, and React — from database schema to production deployment.
+Senior software engineer with years of experience designing and delivering full-stack systems from data models and APIs to production deployment.
 
 🌐 [khalidutsob.com](https://khalidutsob.com) · 📫 [LinkedIn](https://linkedin.com/in/khalid-arnob)
 
@@ -8,8 +8,10 @@ Back-end-focused full-stack developer. I design and build scalable APIs and mult
 
 ### Stack
 
-**Backend:** Node.js · NestJS · Go · PostgreSQL · Redis · gRPC
+**Languages:** TypeScript · JavaScript · Rust · Python · C
 
-**Frontend:** React · Next.js · TypeScript · Tailwind
+**Backend:** Node.js · Express · NestJS · REST · gRPC · PostgreSQL · Redis
 
-**Infra:** Docker · AWS · Linux · CI/CD
+**Frontend:** React · Next.js · Tailwind CSS
+
+**Infra:** Docker · AWS · Linux · Nginx · CI/CD
