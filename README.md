@@ -12,6 +12,6 @@ Senior software engineer with years of experience designing and delivering full-
 
 **Backend:** Node.js · Express · NestJS · REST · gRPC · PostgreSQL · Redis
 
-**Frontend:** React · Next.js · Tailwind CSS
+**Frontend:** React · Next.js · Tailwind CSS · Shadcn
 
 **Infra:** Docker · AWS · Linux · Nginx · CI/CD
